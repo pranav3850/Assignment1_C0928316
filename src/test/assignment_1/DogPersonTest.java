@@ -1,7 +1,8 @@
 package test.assignment_1;
-import java.assignment_1.*;
+import java2.assignment_1.*;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
+
 
 public class DogPersonTest {
     @Test
